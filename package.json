@@ -1,6 +1,6 @@
 {
   "name": "coord-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Loose geographic coordinate parsing library (designed for user input)",
   "main": "index.js",
   "scripts": {
